@@ -1,0 +1,11 @@
+Introducción al Proyecto
+El Sistema de Gestión de Tareas es una aplicación desarrollada en Python que permite a los
+usuarios organizar y controlar sus tareas diarias desde una interfaz de línea de comandos (CLI). El
+propósito principal de este sistema es ofrecer una solución simple, funcional y extensible que facilite
+la productividad personal o profesional.
+A través de un menú interactivo, los usuarios pueden crear nuevas tareas, editarlas, eliminarlas,
+listarlas o filtrarlas por categoría o estado. El sistema utiliza persistencia de datos mediante archivos
+JSON, lo que asegura que las tareas permanezcan guardadas entre sesiones. Además, se ha
+implementado el patrón de diseño Singleton para mejorar la consistencia y escalabilidad del código.
+Este proyecto es modular y ha sido desarrollado con visión de futuro, permitiendo que se le
+incorporen nuevas funcionalidades sin afectar su arquitectura base.
